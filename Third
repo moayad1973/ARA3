@@ -1,1 +1,610 @@
 
+#EXTM3U
+#EXTINF:-1,TUNISIA 1
+http://evolive-tv.com:8000/live/genio/genio/9.m3u8
+#EXTINF:-1,TUNISIA 2
+http://evolive-tv.com:8000/live/genio/genio/31.m3u8
+#EXTINF:-1,ELHIWAR ETTOUNSI
+http://evolive-tv.com:8000/live/genio/genio/32.m3u8
+#EXTINF:-1,ETTOUNISIA TV
+http://evolive-tv.com:8000/live/genio/genio/38.m3u8
+#EXTINF:-1,HANNIBAL
+http://evolive-tv.com:8000/live/genio/genio/33.m3u8
+#EXTINF:-1,NISSMA
+http://evolive-tv.com:8000/live/genio/genio/30.m3u8
+#EXTINF:-1,ETTASSIA
+http://evolive-tv.com:8000/live/genio/genio/39.m3u8
+#EXTINF:-1,ZAITOUNA TV
+http://evolive-tv.com:8000/live/genio/genio/40.m3u8
+#EXTINF:-1,TUNISNA
+http://evolive-tv.com:8000/live/genio/genio/36.m3u8
+#EXTINF:-1,JANOUBIA
+http://evolive-tv.com:8000/live/genio/genio/34.m3u8
+#EXTINF:-1,MUTAWASSIT
+http://evolive-tv.com:8000/live/genio/genio/37.m3u8
+#EXTINF:-1,FIRST TV
+http://evolive-tv.com:8000/live/genio/genio/35.m3u8
+#EXTINF:-1,ART CINEMA
+http://evolive-tv.com:8000/live/genio/genio/52.m3u8
+#EXTINF:-1,ART AFLAM1
+http://evolive-tv.com:8000/live/genio/genio/53.m3u8
+#EXTINF:-1,ART AFLAM2
+http://evolive-tv.com:8000/live/genio/genio/54.m3u8
+#EXTINF:-1,ART HEKAYAT
+http://evolive-tv.com:8000/live/genio/genio/55.m3u8
+#EXTINF:-1,AR:OSN MOVIES HD
+http://evolive-tv.com:8000/live/genio/genio/191.m3u8
+#EXTINF:-1,OSN-MBC DRAMA
+http://evolive-tv.com:8000/live/genio/genio/194.m3u8
+#EXTINF:-1,OSN CINEMA 1
+http://evolive-tv.com:8000/live/genio/genio/196.m3u8
+#EXTINF:-1,OSN CINEMA 2
+http://evolive-tv.com:8000/live/genio/genio/195.m3u8
+#EXTINF:-1,AR:OSN MOVIES DRAMA
+http://evolive-tv.com:8000/live/genio/genio/192.m3u8
+#EXTINF:-1,OSN-YaHala-HD
+http://evolive-tv.com:8000/live/genio/genio/193.m3u8
+#EXTINF:-1,AL_Nahar
+http://evolive-tv.com:8000/live/genio/genio/251.m3u8
+#EXTINF:-1,Al-Nahar_Drama
+http://evolive-tv.com:8000/live/genio/genio/253.m3u8
+#EXTINF:-1,AR-CBC
+http://evolive-tv.com:8000/live/genio/genio/249.m3u8
+#EXTINF:-1,CBC 2
+http://evolive-tv.com:8000/live/genio/genio/248.m3u8
+#EXTINF:-1,CBC_DRAMA
+http://evolive-tv.com:8000/live/genio/genio/247.m3u8
+#EXTINF:-1,CBC_eXtra
+http://evolive-tv.com:8000/live/genio/genio/246.m3u8
+#EXTINF:-1,CBC_SOFRA
+http://evolive-tv.com:8000/live/genio/genio/245.m3u8
+#EXTINF:-1,MBC MAX
+http://evolive-tv.com:8000/live/genio/genio/46.m3u8
+#EXTINF:-1,MBC ACTION
+http://evolive-tv.com:8000/live/genio/genio/237.m3u8
+#EXTINF:-1,MBC MASR 2
+http://evolive-tv.com:8000/live/genio/genio/49.m3u8
+#EXTINF:-1,MBC MASR
+http://evolive-tv.com:8000/live/genio/genio/48.m3u8
+#EXTINF:-1,MBC DRAMA
+http://evolive-tv.com:8000/live/genio/genio/47.m3u8
+#EXTINF:-1,MBC bollywood
+http://evolive-tv.com:8000/live/genio/genio/45.m3u8
+#EXTINF:-1,MBC 4
+http://evolive-tv.com:8000/live/genio/genio/44.m3u8
+#EXTINF:-1,MBC 3
+http://evolive-tv.com:8000/live/genio/genio/43.m3u8
+#EXTINF:-1,MBC 2
+http://evolive-tv.com:8000/live/genio/genio/42.m3u8
+#EXTINF:-1,MBC
+http://evolive-tv.com:8000/live/genio/genio/41.m3u8
+#EXTINF:-1,Iqraa
+http://evolive-tv.com:8000/live/genio/genio/240.m3u8
+#EXTINF:-1,AL_RESALAH
+http://evolive-tv.com:8000/live/genio/genio/250.m3u8
+#EXTINF:-1,Toyor_Al_Janah
+http://evolive-tv.com:8000/live/genio/genio/217.m3u8
+#EXTINF:-1,TAHA
+http://evolive-tv.com:8000/live/genio/genio/218.m3u8
+#EXTINF:-1,SPACETOON
+http://evolive-tv.com:8000/live/genio/genio/219.m3u8
+#EXTINF:-1,KARAMEESH
+http://evolive-tv.com:8000/live/genio/genio/239.m3u8
+#EXTINF:-1,ALquds
+http://evolive-tv.com:8000/live/genio/genio/252.m3u8
+#EXTINF:-1,Rotana_Aflam
+http://evolive-tv.com:8000/live/genio/genio/221.m3u8
+#EXTINF:-1,ROTANA_KHALIGIA
+http://evolive-tv.com:8000/live/genio/genio/223.m3u8
+#EXTINF:-1,ROTANA_MASRIYA
+http://evolive-tv.com:8000/live/genio/genio/222.m3u8
+#EXTINF:-1,ROTANA_CINE_EGY
+http://evolive-tv.com:8000/live/genio/genio/225.m3u8
+#EXTINF:-1,Rotana clip
+http://evolive-tv.com:8000/live/genio/genio/224.m3u8
+#EXTINF:-1,Rotana_Classic
+http://evolive-tv.com:8000/live/genio/genio/220.m3u8
+#EXTINF:-1,Rotana
+http://evolive-tv.com:8000/live/genio/genio/226.m3u8
+#EXTINF:-1,Nour dubai
+http://evolive-tv.com:8000/live/genio/genio/227.m3u8
+#EXTINF:-1,Noor Jordan
+http://evolive-tv.com:8000/live/genio/genio/228.m3u8
+#EXTINF:-1,NILE_SPORT
+http://evolive-tv.com:8000/live/genio/genio/229.m3u8
+#EXTINF:-1,NILE_NEWS
+http://evolive-tv.com:8000/live/genio/genio/230.m3u8
+#EXTINF:-1,NILE_LIFE
+http://evolive-tv.com:8000/live/genio/genio/231.m3u8
+#EXTINF:-1,NILE_FAMILY
+http://evolive-tv.com:8000/live/genio/genio/232.m3u8
+#EXTINF:-1,NILE_DRAMA
+http://evolive-tv.com:8000/live/genio/genio/233.m3u8
+#EXTINF:-1,NILE_CULTURE
+http://evolive-tv.com:8000/live/genio/genio/234.m3u8
+#EXTINF:-1,Nile Comedy
+http://evolive-tv.com:8000/live/genio/genio/235.m3u8
+#EXTINF:-1,NILE_CINEMA
+http://evolive-tv.com:8000/live/genio/genio/236.m3u8
+#EXTINF:-1,MajdKidsTV
+http://evolive-tv.com:8000/live/genio/genio/238.m3u8
+#EXTINF:-1,Cima
+http://evolive-tv.com:8000/live/genio/genio/244.m3u8
+#EXTINF:-1,DUBAI_ONE_HD
+http://evolive-tv.com:8000/live/genio/genio/242.m3u8
+#EXTINF:-1,DUBAI_DRAMA_HD
+http://evolive-tv.com:8000/live/genio/genio/243.m3u8
+#EXTINF:-1,DUBAI_SPORT_1_HD
+http://evolive-tv.com:8000/live/genio/genio/241.m3u8
+#EXTINF:-1,ABOU_DHABI_1
+http://evolive-tv.com:8000/live/genio/genio/258.m3u8
+#EXTINF:-1,ADdrama
+http://evolive-tv.com:8000/live/genio/genio/257.m3u8
+#EXTINF:-1,ADsport2
+http://evolive-tv.com:8000/live/genio/genio/256.m3u8
+#EXTINF:-1,AD_Al_EMARAT
+http://evolive-tv.com:8000/live/genio/genio/255.m3u8
+#EXTINF:-1,AD_SPORT_1
+http://evolive-tv.com:8000/live/genio/genio/254.m3u8
+#EXTINF:-1,Al jazaeiria
+http://evolive-tv.com:8000/live/genio/genio/198.m3u8
+#EXTINF:-1,TV TAMAZIGHT
+http://evolive-tv.com:8000/live/genio/genio/197.m3u8
+#EXTINF:-1,Alkass 2 HD
+http://evolive-tv.com:8000/live/genio/genio/305.m3u8
+#EXTINF:-1,BEINSPORT 1
+http://evolive-tv.com:8000/live/genio/genio/207.m3u8
+#EXTINF:-1,BEINSPORT 2
+http://evolive-tv.com:8000/live/genio/genio/206.m3u8
+#EXTINF:-1,BEINSPORT 3
+http://evolive-tv.com:8000/live/genio/genio/209.m3u8
+#EXTINF:-1,beINSports 4
+http://evolive-tv.com:8000/live/genio/genio/180.m3u8
+#EXTINF:-1,beINSports 5
+http://evolive-tv.com:8000/live/genio/genio/181.m3u8
+#EXTINF:-1,BEINSPORT6
+http://evolive-tv.com:8000/live/genio/genio/56.m3u8
+#EXTINF:-1,BEINSPORT 7
+http://evolive-tv.com:8000/live/genio/genio/57.m3u8
+#EXTINF:-1,BEINSPORT 8
+http://evolive-tv.com:8000/live/genio/genio/58.m3u8
+#EXTINF:-1,BEINSPORT 9
+http://evolive-tv.com:8000/live/genio/genio/59.m3u8
+#EXTINF:-1,BEINSPORT 10
+http://evolive-tv.com:8000/live/genio/genio/60.m3u8
+#EXTINF:-1,RTVI
+http://evolive-tv.com:8000/live/genio/genio/61.m3u8
+#EXTINF:-1,LA UNE
+http://evolive-tv.com:8000/live/genio/genio/63.m3u8
+#EXTINF:-1,LA DEUX
+http://evolive-tv.com:8000/live/genio/genio/64.m3u8
+#EXTINF:-1,LA TROIS
+http://evolive-tv.com:8000/live/genio/genio/62.m3u8
+#EXTINF:-1,Ciné BE
+http://evolive-tv.com:8000/live/genio/genio/311.m3u8
+#EXTINF:-1,BE Serie
+http://evolive-tv.com:8000/live/genio/genio/312.m3u8
+#EXTINF:-1,BE 1
+http://evolive-tv.com:8000/live/genio/genio/310.m3u8
+#EXTINF:-1,Voo Sport 1
+http://evolive-tv.com:8000/live/genio/genio/313.m3u8
+#EXTINF:-1,TSR1
+http://evolive-tv.com:8000/live/genio/genio/200.m3u8
+#EXTINF:-1,TSR2
+http://evolive-tv.com:8000/live/genio/genio/203.m3u8
+#EXTINF:-1,TF1
+http://evolive-tv.com:8000/live/genio/genio/1.m3u8
+#EXTINF:-1,M6
+http://evolive-tv.com:8000/live/genio/genio/2.m3u8
+#EXTINF:-1,FRANCE 2
+http://evolive-tv.com:8000/live/genio/genio/6.m3u8
+#EXTINF:-1,FRANCE 3
+http://evolive-tv.com:8000/live/genio/genio/7.m3u8
+#EXTINF:-1,FRANCE 4
+http://evolive-tv.com:8000/live/genio/genio/50.m3u8
+#EXTINF:-1,FRANCE 5
+http://evolive-tv.com:8000/live/genio/genio/51.m3u8
+#EXTINF:-1,TMC
+http://evolive-tv.com:8000/live/genio/genio/261.m3u8
+#EXTINF:-1,W9
+http://evolive-tv.com:8000/live/genio/genio/3.m3u8
+#EXTINF:-1,NRJ12
+http://evolive-tv.com:8000/live/genio/genio/4.m3u8
+#EXTINF:-1,M6 MUSIC
+http://evolive-tv.com:8000/live/genio/genio/167.m3u8
+#EXTINF:-1,MTV
+http://evolive-tv.com:8000/live/genio/genio/271.m3u8
+#EXTINF:-1,MTV_Hits
+http://evolive-tv.com:8000/live/genio/genio/272.m3u8
+#EXTINF:-1,MTV_Dance
+http://evolive-tv.com:8000/live/genio/genio/276.m3u8
+#EXTINF:-1,AB1
+http://evolive-tv.com:8000/live/genio/genio/89.m3u8
+#EXTINF:-1,E!
+http://evolive-tv.com:8000/live/genio/genio/90.m3u8
+#EXTINF:-1,Syfy
+http://evolive-tv.com:8000/live/genio/genio/78.m3u8
+#EXTINF:-1,paris premiere
+http://evolive-tv.com:8000/live/genio/genio/77.m3u8
+#EXTINF:-1,13eme Rue
+http://evolive-tv.com:8000/live/genio/genio/205.m3u8
+#EXTINF:-1,Comedie+ HD
+http://evolive-tv.com:8000/live/genio/genio/84.m3u8
+#EXTINF:-1,BFM
+http://evolive-tv.com:8000/live/genio/genio/23.m3u8
+#EXTINF:-1,D17
+http://evolive-tv.com:8000/live/genio/genio/8.m3u8
+#EXTINF:-1,teva
+http://evolive-tv.com:8000/live/genio/genio/76.m3u8
+#EXTINF:-1,RTL 9
+http://evolive-tv.com:8000/live/genio/genio/69.m3u8
+#EXTINF:-1,GULLI
+http://evolive-tv.com:8000/live/genio/genio/14.m3u8
+#EXTINF:-1,6TER
+http://evolive-tv.com:8000/live/genio/genio/5.m3u8
+#EXTINF:-1,teletoon+
+http://evolive-tv.com:8000/live/genio/genio/18.m3u8
+#EXTINF:-1,Nick Junior
+http://evolive-tv.com:8000/live/genio/genio/17.m3u8
+#EXTINF:-1,Cartoon Network FR
+http://evolive-tv.com:8000/live/genio/genio/16.m3u8
+#EXTINF:-1,Disney Cine Magic
+http://evolive-tv.com:8000/live/genio/genio/95.m3u8
+#EXTINF:-1,Disney.Junior
+http://evolive-tv.com:8000/live/genio/genio/186.m3u8
+#EXTINF:-1,FR: Disney XD
+http://evolive-tv.com:8000/live/genio/genio/314.m3u8
+#EXTINF:-1,Boing
+http://evolive-tv.com:8000/live/genio/genio/187.m3u8
+#EXTINF:-1,Disney Channel
+http://evolive-tv.com:8000/live/genio/genio/96.m3u8
+#EXTINF:-1,BOOMRANG
+http://evolive-tv.com:8000/live/genio/genio/15.m3u8
+#EXTINF:-1,Mangas
+http://evolive-tv.com:8000/live/genio/genio/94.m3u8
+#EXTINF:-1,Tiji
+http://evolive-tv.com:8000/live/genio/genio/92.m3u8
+#EXTINF:-1,CANAL J
+http://evolive-tv.com:8000/live/genio/genio/19.m3u8
+#EXTINF:-1,piwi
+http://evolive-tv.com:8000/live/genio/genio/111.m3u8
+#EXTINF:-1,CANAL+ HD
+http://evolive-tv.com:8000/live/genio/genio/24.m3u8
+#EXTINF:-1,Canal+ Decale
+http://evolive-tv.com:8000/live/genio/genio/26.m3u8
+#EXTINF:-1,canal+ Family
+http://evolive-tv.com:8000/live/genio/genio/28.m3u8
+#EXTINF:-1,Canal+ Cinema HD
+http://evolive-tv.com:8000/live/genio/genio/27.m3u8
+#EXTINF:-1,Canal+ Serie HD
+http://evolive-tv.com:8000/live/genio/genio/25.m3u8
+#EXTINF:-1,ACTION
+http://evolive-tv.com:8000/live/genio/genio/216.m3u8
+#EXTINF:-1,serie club
+http://evolive-tv.com:8000/live/genio/genio/79.m3u8
+#EXTINF:-1,canal+ Sport HD
+http://evolive-tv.com:8000/live/genio/genio/29.m3u8
+#EXTINF:-1,BEINSPORT FR1
+http://evolive-tv.com:8000/live/genio/genio/65.m3u8
+#EXTINF:-1,BEINSPORT FR2
+http://evolive-tv.com:8000/live/genio/genio/66.m3u8
+#EXTINF:-1,BEINSPORT FR3
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+#EXTINF:-1,Foot+
+http://evolive-tv.com:8000/live/genio/genio/306.m3u8
+#EXTINF:-1,MA CHAINE SPORT
+http://evolive-tv.com:8000/live/genio/genio/201.m3u8
+#EXTINF:-1,InfoSport
+http://evolive-tv.com:8000/live/genio/genio/182.m3u8
+#EXTINF:-1,KOMBAT_SPORT
+http://evolive-tv.com:8000/live/genio/genio/307.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://evolive-tv.com:8000/live/genio/genio/309.m3u8
+#EXTINF:-1,OL TV
+http://evolive-tv.com:8000/live/genio/genio/259.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://evolive-tv.com:8000/live/genio/genio/184.m3u8
+#EXTINF:-1,OCS CITY
+http://evolive-tv.com:8000/live/genio/genio/10.m3u8
+#EXTINF:-1,OCS CHOC
+http://evolive-tv.com:8000/live/genio/genio/11.m3u8
+#EXTINF:-1,OCS Max HD
+http://evolive-tv.com:8000/live/genio/genio/82.m3u8
+#EXTINF:-1,OCS Géants HD
+http://evolive-tv.com:8000/live/genio/genio/83.m3u8
+#EXTINF:-1,Cine frisson
+http://evolive-tv.com:8000/live/genio/genio/13.m3u8
+#EXTINF:-1,Cine+ Premier HD
+http://evolive-tv.com:8000/live/genio/genio/80.m3u8
+#EXTINF:-1,cinéma classique
+http://evolive-tv.com:8000/live/genio/genio/202.m3u8
+#EXTINF:-1,Cine+ Emotion HD
+http://evolive-tv.com:8000/live/genio/genio/81.m3u8
+#EXTINF:-1,CINE FAMIZ HD
+http://evolive-tv.com:8000/live/genio/genio/262.m3u8
+#EXTINF:-1,TCM CINEMA
+http://evolive-tv.com:8000/live/genio/genio/308.m3u8
+#EXTINF:-1,PLANETE +
+http://evolive-tv.com:8000/live/genio/genio/22.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://evolive-tv.com:8000/live/genio/genio/169.m3u8
+#EXTINF:-1,Planete-ci
+http://evolive-tv.com:8000/live/genio/genio/86.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://evolive-tv.com:8000/live/genio/genio/20.m3u8
+#EXTINF:-1,PLANET+_AE
+http://evolive-tv.com:8000/live/genio/genio/168.m3u8
+#EXTINF:-1,Nat Geo HD
+http://evolive-tv.com:8000/live/genio/genio/98.m3u8
+#EXTINF:-1,VOYAGE  HD
+http://evolive-tv.com:8000/live/genio/genio/185.m3u8
+#EXTINF:-1,Toute histoire
+http://evolive-tv.com:8000/live/genio/genio/204.m3u8
+#EXTINF:-1,ScienceetVieTV
+http://evolive-tv.com:8000/live/genio/genio/93.m3u8
+#EXTINF:-1,ushuaia tv
+http://evolive-tv.com:8000/live/genio/genio/75.m3u8
+#EXTINF:-1,season
+http://evolive-tv.com:8000/live/genio/genio/304.m3u8
+#EXTINF:-1,Animaux HD
+http://evolive-tv.com:8000/live/genio/genio/87.m3u8
+#EXTINF:-1,Chasse & Peche
+http://evolive-tv.com:8000/live/genio/genio/97.m3u8
+#EXTINF:-1,Discovery
+http://evolive-tv.com:8000/live/genio/genio/21.m3u8
+#EXTINF:-1,SP-TNT
+http://evolive-tv.com:8000/live/genio/genio/268.m3u8
+#EXTINF:-1,SP-Syfy
+http://evolive-tv.com:8000/live/genio/genio/270.m3u8
+#EXTINF:-1,SP-National Geographic Wild HD
+http://evolive-tv.com:8000/live/genio/genio/287.m3u8
+#EXTINF:-1,SP-National Geographic
+http://evolive-tv.com:8000/live/genio/genio/286.m3u8
+#EXTINF:-1,SP-FOX
+http://evolive-tv.com:8000/live/genio/genio/266.m3u8
+#EXTINF:-1,SP-Disney XD
+http://evolive-tv.com:8000/live/genio/genio/280.m3u8
+#EXTINF:-1,SP-Disney Junior
+http://evolive-tv.com:8000/live/genio/genio/281.m3u8
+#EXTINF:-1,SP-Disney Channel
+http://evolive-tv.com:8000/live/genio/genio/279.m3u8
+#EXTINF:-1,EP: Canal+ Accion
+http://evolive-tv.com:8000/live/genio/genio/188.m3u8
+#EXTINF:-1,SP-Canal+ Comedia
+http://evolive-tv.com:8000/live/genio/genio/165.m3u8
+#EXTINF:-1,SP-Canal+ DCine
+http://evolive-tv.com:8000/live/genio/genio/164.m3u8
+#EXTINF:-1,SP-Canal+ Series HD
+http://evolive-tv.com:8000/live/genio/genio/264.m3u8
+#EXTINF:-1,SP-Canal+ Liga HD
+http://evolive-tv.com:8000/live/genio/genio/274.m3u8
+#EXTINF:-1,SP-Canal+ Estrenos
+http://evolive-tv.com:8000/live/genio/genio/263.m3u8
+#EXTINF:-1,SP-Canal+ Deportes HD
+http://evolive-tv.com:8000/live/genio/genio/163.m3u8
+#EXTINF:-1,SP-Canal+ Futbol HD
+http://evolive-tv.com:8000/live/genio/genio/162.m3u8
+#EXTINF:-1,SP- Real Madrid TV
+http://evolive-tv.com:8000/live/genio/genio/278.m3u8
+#EXTINF:-1,SP-Barca TV
+http://evolive-tv.com:8000/live/genio/genio/277.m3u8
+#EXTINF:-1,SP-ARENA SPORT 1
+http://evolive-tv.com:8000/live/genio/genio/157.m3u8
+#EXTINF:-1,SP-ARENA SPORT 2
+http://evolive-tv.com:8000/live/genio/genio/158.m3u8
+#EXTINF:-1,SP-ARENA SPORT 3
+http://evolive-tv.com:8000/live/genio/genio/159.m3u8
+#EXTINF:-1,SP-ARENA SPORT 4
+http://evolive-tv.com:8000/live/genio/genio/160.m3u8
+#EXTINF:-1,SP-ARENA SPORT 5
+http://evolive-tv.com:8000/live/genio/genio/161.m3u8
+#EXTINF:-1,PT: TVCine 4 HD
+http://evolive-tv.com:8000/live/genio/genio/303.m3u8
+#EXTINF:-1,PT: TVCine 3 HD
+http://evolive-tv.com:8000/live/genio/genio/302.m3u8
+#EXTINF:-1,PT: TVCine 2 HD
+http://evolive-tv.com:8000/live/genio/genio/301.m3u8
+#EXTINF:-1,PT: TVCine 1 HD
+http://evolive-tv.com:8000/live/genio/genio/300.m3u8
+#EXTINF:-1,PT: TV Globo Premium
+http://evolive-tv.com:8000/live/genio/genio/290.m3u8
+#EXTINF:-1,PT: TV Globo
+http://evolive-tv.com:8000/live/genio/genio/289.m3u8
+#EXTINF:-1,PT: SyFu
+http://evolive-tv.com:8000/live/genio/genio/288.m3u8
+#EXTINF:-1,PT: SportTV 5
+http://evolive-tv.com:8000/live/genio/genio/295.m3u8
+#EXTINF:-1,PT: SportTV 4
+http://evolive-tv.com:8000/live/genio/genio/294.m3u8
+#EXTINF:-1,PT: SportTV 3
+http://evolive-tv.com:8000/live/genio/genio/293.m3u8
+#EXTINF:-1,PT: SportTV 2
+http://evolive-tv.com:8000/live/genio/genio/292.m3u8
+#EXTINF:-1,PT: SportTV 1
+http://evolive-tv.com:8000/live/genio/genio/291.m3u8
+#EXTINF:-1,PT: SIC
+http://evolive-tv.com:8000/live/genio/genio/298.m3u8
+#EXTINF:-1,PT: RTP 3
+http://evolive-tv.com:8000/live/genio/genio/299.m3u8
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://evolive-tv.com:8000/live/genio/genio/296.m3u8
+#EXTINF:-1,SYFY_DE
+http://evolive-tv.com:8000/live/genio/genio/175.m3u8
+#EXTINF:-1,IT-RAI SPORT 1
+http://evolive-tv.com:8000/live/genio/genio/285.m3u8
+#EXTINF:-1,SP-FOX Life
+http://evolive-tv.com:8000/live/genio/genio/267.m3u8
+#EXTINF:-1,SP-Canal+
+http://evolive-tv.com:8000/live/genio/genio/166.m3u8
+#EXTINF:-1,SP-Canal+ Xtra
+http://evolive-tv.com:8000/live/genio/genio/265.m3u8
+#EXTINF:-1,SP-Canal+ Liga 2 HD
+http://evolive-tv.com:8000/live/genio/genio/275.m3u8
+#EXTINF:-1,SKY_Discovery _Investigation
+http://evolive-tv.com:8000/live/genio/genio/282.m3u8
+#EXTINF:-1,SKY_Discovery_History 1
+http://evolive-tv.com:8000/live/genio/genio/273.m3u8
+#EXTINF:-1,SKY_MOVIES_FAMILY
+http://evolive-tv.com:8000/live/genio/genio/328.m3u8
+#EXTINF:-1,SKY_MOVIES_COMEDY
+http://evolive-tv.com:8000/live/genio/genio/324.m3u8
+#EXTINF:-1,SKY_MOVIES_ACTION
+http://evolive-tv.com:8000/live/genio/genio/330.m3u8
+#EXTINF:-1,SKY-UK MOVIES ACTION
+http://evolive-tv.com:8000/live/genio/genio/178.m3u8
+#EXTINF:-1,SKY_MOVIES _DISNEY
+http://evolive-tv.com:8000/live/genio/genio/329.m3u8
+#EXTINF:-1,SKY_MOVIES PREMIER
+http://evolive-tv.com:8000/live/genio/genio/326.m3u8
+#EXTINF:-1,SKY_MOVIES
+http://evolive-tv.com:8000/live/genio/genio/327.m3u8
+#EXTINF:-1,SKY-NEWS
+http://evolive-tv.com:8000/live/genio/genio/325.m3u8
+#EXTINF:-1,BBC 2
+http://evolive-tv.com:8000/live/genio/genio/211.m3u8
+#EXTINF:-1,BBC
+http://evolive-tv.com:8000/live/genio/genio/210.m3u8
+#EXTINF:-1,BT_SPORT_EXTRA
+http://evolive-tv.com:8000/live/genio/genio/269.m3u8
+#EXTINF:-1,BT_SPORT1
+http://evolive-tv.com:8000/live/genio/genio/284.m3u8
+#EXTINF:-1,BT_SPORT2
+http://evolive-tv.com:8000/live/genio/genio/283.m3u8
+#EXTINF:-1,CTH Staduim XHD
+http://evolive-tv.com:8000/live/genio/genio/317.m3u8
+#EXTINF:-1,CTH Staduim 6HD
+http://evolive-tv.com:8000/live/genio/genio/318.m3u8
+#EXTINF:-1,CTH Staduim 5HD
+http://evolive-tv.com:8000/live/genio/genio/319.m3u8
+#EXTINF:-1,CTH Staduim 4HD
+http://evolive-tv.com:8000/live/genio/genio/320.m3u8
+#EXTINF:-1,CTH Staduim 3HD
+http://evolive-tv.com:8000/live/genio/genio/321.m3u8
+#EXTINF:-1,CTH Staduim 2HD
+http://evolive-tv.com:8000/live/genio/genio/322.m3u8
+#EXTINF:-1,CTH Staduim 1HD
+http://evolive-tv.com:8000/live/genio/genio/323.m3u8
+#EXTINF:-1,Sky Sport 1
+http://evolive-tv.com:8000/live/genio/genio/70.m3u8
+#EXTINF:-1,Sky Sport 2
+http://evolive-tv.com:8000/live/genio/genio/71.m3u8
+#EXTINF:-1,Sky Sport 3
+http://evolive-tv.com:8000/live/genio/genio/72.m3u8
+#EXTINF:-1,Sky Sport 4
+http://evolive-tv.com:8000/live/genio/genio/73.m3u8
+#EXTINF:-1,Sky Sport 5
+http://evolive-tv.com:8000/live/genio/genio/74.m3u8
+#EXTINF:-1,NL-FILM1 PREMIERE HD
+http://evolive-tv.com:8000/live/genio/genio/171.m3u8
+#EXTINF:-1,NL-FOX SPORTS 1 EREDIVISIE
+http://evolive-tv.com:8000/live/genio/genio/174.m3u8
+#EXTINF:-1,NL-HBO HD
+http://evolive-tv.com:8000/live/genio/genio/173.m3u8
+#EXTINF:-1,NL-HBO 2
+http://evolive-tv.com:8000/live/genio/genio/172.m3u8
+#EXTINF:-1,NL-HBO 3
+http://evolive-tv.com:8000/live/genio/genio/170.m3u8
+#EXTINF:-1,SUPER_RTL.HD
+http://evolive-tv.com:8000/live/genio/genio/114.m3u8
+#EXTINF:-1,RTL_LIVING
+http://evolive-tv.com:8000/live/genio/genio/115.m3u8
+#EXTINF:-1,DE-VOX
+http://evolive-tv.com:8000/live/genio/genio/112.m3u8
+#EXTINF:-1,SKY-DT BUNDESLIGA 1 HD
+http://evolive-tv.com:8000/live/genio/genio/176.m3u8
+#EXTINF:-1,SKY_SPORT1
+http://evolive-tv.com:8000/live/genio/genio/124.m3u8
+#EXTINF:-1,SKY_SPORT2
+http://evolive-tv.com:8000/live/genio/genio/125.m3u8
+#EXTINF:-1,SPORT1+HD
+http://evolive-tv.com:8000/live/genio/genio/120.m3u8
+#EXTINF:-1,SKY_CINEMA
+http://evolive-tv.com:8000/live/genio/genio/103.m3u8
+#EXTINF:-1,SKY_CINEMA1
+http://evolive-tv.com:8000/live/genio/genio/105.m3u8
+#EXTINF:-1,SKY_EMOTION
+http://evolive-tv.com:8000/live/genio/genio/121.m3u8
+#EXTINF:-1,SKY_ACTION
+http://evolive-tv.com:8000/live/genio/genio/104.m3u8
+#EXTINF:-1,SKY_COMEDY
+http://evolive-tv.com:8000/live/genio/genio/107.m3u8
+#EXTINF:-1,SKY_HITS
+http://evolive-tv.com:8000/live/genio/genio/123.m3u8
+#EXTINF:-1,SKY_ATLANTIC
+http://evolive-tv.com:8000/live/genio/genio/122.m3u8
+#EXTINF:-1,SKY_NAT_GEO
+http://evolive-tv.com:8000/live/genio/genio/177.m3u8
+#EXTINF:-1,SKY_DISCOVERY
+http://evolive-tv.com:8000/live/genio/genio/113.m3u8
+#EXTINF:-1,UNIVERSAL_DE
+http://evolive-tv.com:8000/live/genio/genio/102.m3u8
+#EXTINF:-1,DE-B-Sky-Select 1
+http://evolive-tv.com:8000/live/genio/genio/117.m3u8
+#EXTINF:-1,DE-B-Sky-Select 3
+http://evolive-tv.com:8000/live/genio/genio/118.m3u8
+#EXTINF:-1,DE-B-Sky-Select 5
+http://evolive-tv.com:8000/live/genio/genio/119.m3u8
+#EXTINF:-1,IT-RAI 1
+http://evolive-tv.com:8000/live/genio/genio/140.m3u8
+#EXTINF:-1,IT-RAI 2
+http://evolive-tv.com:8000/live/genio/genio/141.m3u8
+#EXTINF:-1,IT-RAI 3
+http://evolive-tv.com:8000/live/genio/genio/142.m3u8
+#EXTINF:-1,IT-RAI 4
+http://evolive-tv.com:8000/live/genio/genio/129.m3u8
+#EXTINF:-1,IT- LA 7
+http://evolive-tv.com:8000/live/genio/genio/135.m3u8
+#EXTINF:-1,IT- ITALIA 1 HD
+http://evolive-tv.com:8000/live/genio/genio/139.m3u8
+#EXTINF:-1,IT-MEDIASET 1
+http://evolive-tv.com:8000/live/genio/genio/154.m3u8
+#EXTINF:-1,IT-RETE 4 HD
+http://evolive-tv.com:8000/live/genio/genio/127.m3u8
+#EXTINF:-1,IT-CANALE 5 HD
+http://evolive-tv.com:8000/live/genio/genio/212.m3u8
+#EXTINF:-1,IT-SKY SPORT 1 HD
+http://evolive-tv.com:8000/live/genio/genio/131.m3u8
+#EXTINF:-1,IT-SKY SPORT 2 HD
+http://evolive-tv.com:8000/live/genio/genio/132.m3u8
+#EXTINF:-1,IT-SKY SPORT 3 HD
+http://evolive-tv.com:8000/live/genio/genio/133.m3u8
+#EXTINF:-1,IT-SKY SPORT 24 HD
+http://evolive-tv.com:8000/live/genio/genio/130.m3u8
+#EXTINF:-1,TI-Sky Cinema 1 HD
+http://evolive-tv.com:8000/live/genio/genio/153.m3u8
+#EXTINF:-1,IT-SKY CINEMA MAX HD
+http://evolive-tv.com:8000/live/genio/genio/128.m3u8
+#EXTINF:-1,IT-Sky Cinema Comedy HD
+http://evolive-tv.com:8000/live/genio/genio/137.m3u8
+#EXTINF:-1,IT-Sky Cinema Cult HD
+http://evolive-tv.com:8000/live/genio/genio/151.m3u8
+#EXTINF:-1,IT_SKY_ATLANTIC
+http://evolive-tv.com:8000/live/genio/genio/155.m3u8
+#EXTINF:-1,IT-Sky Cinema Family HD
+http://evolive-tv.com:8000/live/genio/genio/156.m3u8
+#EXTINF:-1,IT-Sky Cinema hits
+http://evolive-tv.com:8000/live/genio/genio/134.m3u8
+#EXTINF:-1,IT-Sky Nat Geo HD
+http://evolive-tv.com:8000/live/genio/genio/148.m3u8
+#EXTINF:-1,IT-Sky Nat Geo Wild HD
+http://evolive-tv.com:8000/live/genio/genio/149.m3u8
+#EXTINF:-1,IT-Sky Discovery HD
+http://evolive-tv.com:8000/live/genio/genio/150.m3u8
+#EXTINF:-1,IT-MEDIASET SPORT
+http://evolive-tv.com:8000/live/genio/genio/126.m3u8
+#EXTINF:-1,IT-PREMIUM EMOTION
+http://evolive-tv.com:8000/live/genio/genio/152.m3u8
+#EXTINF:-1,IT_SKY_SUPERCALCIO
+http://evolive-tv.com:8000/live/genio/genio/138.m3u8
+#EXTINF:-1,IT_SKY_CINEMA_PASSION
+http://evolive-tv.com:8000/live/genio/genio/136.m3u8
+#EXTINF:-1,IT-PRIMAFILA 1
+http://evolive-tv.com:8000/live/genio/genio/143.m3u8
+#EXTINF:-1,IT-PRIMAFILA 2
+http://evolive-tv.com:8000/live/genio/genio/144.m3u8
+#EXTINF:-1,IT-PRIMAFILA 3
+http://evolive-tv.com:8000/live/genio/genio/145.m3u8
+#EXTINF:-1,IT-PRIMAFILA 4
+http://evolive-tv.com:8000/live/genio/genio/146.m3u8
+#EXTINF:-1,IT-PRIMAFILA 5
+http://evolive-tv.com:8000/live/genio/genio/147.m3u8
